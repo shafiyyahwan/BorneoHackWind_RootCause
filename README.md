@@ -35,10 +35,10 @@ https://www.figma.com/proto/PDh4anPrZI8xq3OxaggPnf/TrackWise?node-id=0-1&t=Jiqlc
 Link: https://youtu.be/DVqpKIWbJwo 
 
 **Team Members**
-Hariani Prahana Binti Moh Ramli
-Wan Aina Shafiyyah Binti Wan ismail @ Wan Roslan
-Fatin NurMaryam Binti Khairul Arifin
-Nurfara Hanah Binti Hasmadi
+Hariani Prahana Binti Moh Ramli |
+Wan Aina Shafiyyah Binti Wan ismail @ Wan Roslan |
+Fatin NurMaryam Binti Khairul Arifin |
+Nurfara Hanah Binti Hasmadi |
 Aina Nur Wafiy Binti Ahmad Rizal
 
 **Project Context**
